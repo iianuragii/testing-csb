@@ -1,0 +1,23 @@
+{
+  "name": "testing-csb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iianuragii/testing-csb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iianuragii/testing-csb/issues"
+  },
+  "homepage": "https://github.com/iianuragii/testing-csb#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
